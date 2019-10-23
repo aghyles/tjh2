@@ -36,7 +36,11 @@
     "otherModules": [],
     "enableTranslation": true,
     "nativeLanguage": "en",
-    "languages": ["en"],
-    "blueprints": []
+    "languages": [
+      "en"
+    ],
+    "blueprints": [],
+    "herokuAppName": "t-04-jh",
+    "herokuDeployType": "git"
   }
 }
